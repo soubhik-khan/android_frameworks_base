@@ -4217,14 +4217,6 @@ public final class Settings {
         public static final String DOZE_VIBRATE_PROX = "doze_vibrate_prox";
 
         /**
-         * Whether allowing pocket service to register sensors and dispatch informations.
-         * 0 = disabled
-         * 1 = enabled
-         * @hide
-         */
-        public static final String POCKET_JUDGE = "pocket_judge";
-
-        /**
          * Indicates whether ANBI (Accidental navigation button interaction) is enabled.
          *
          * @hide
