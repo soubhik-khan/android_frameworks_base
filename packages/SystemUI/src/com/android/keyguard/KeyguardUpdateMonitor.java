@@ -89,8 +89,8 @@ import com.android.systemui.shared.system.ActivityManagerWrapper;
 
 import com.google.android.collect.Lists;
 
-import com.android.internal.telephony.util.TelephonyExtUtils;
-import com.android.internal.telephony.util.TelephonyExtUtils.ProvisioningChangedListener;
+import org.lineageos.internal.util.TelephonyExtUtils;
+import org.lineageos.internal.util.TelephonyExtUtils.ProvisioningChangedListener;
 
 import java.io.FileDescriptor;
 import java.io.PrintWriter;
